@@ -4,7 +4,7 @@ class Chess:
         self.white = white
 
     def move(self, destination):
-
+        pass
 
 class Pawn(Chess):
     """
